@@ -4,34 +4,34 @@
 |------|:---------------------------------------------------------:|
 | 01  |  [Introdução](./readme.md)|
 | 02  |  [Variaveis, Built-in Functions](./02_Dia_Variaveis_BuiltIn_Functions/README.md)|
-| 03  |  [Operadores](./03_Day_Operators/03_operators.md)|
-| 04  |  [Strings](./04_Day_Strings/04_strings.md)|
-| 05  |  [Listas](./05_Day_Lists/05_lists.md)|
-| 06  |  [Tuplas](./06_Day_Tuples/06_tuples.md)|
-| 07  |  [Conjuntos](./07_Day_Sets/07_sets.md)|
-| 08  |  [Dicionários](./08_Day_Dictionaries/08_dictionaries.md)|
-| 09  |  [Condicionais](./09_Day_Conditionals/09_conditionals.md)|
-| 10  |  [Loops](./10_Day_Loops/10_loops.md)|
-| 11  |  [Funções](./11_Day_Functions/11_functions.md)|
-| 12  |  [Modulos](./12_Day_Modules/12_modules.md)|
-| 13  |  [Compreensão de Listas](./13_Day_List_comprehension/13_list_comprehension.md)|
-| 14  |  [Higher Order Functions](./14_Day_Higher_order_functions/14_higher_order_functions.md)|
-| 15  |  [Tripos de Erros](./15_Day_Python_type_errors/15_python_type_errors.md)|
-| 16  |  [Python Date time](./16_Day_Python_date_time/16_python_datetime.md) |
-| 17  |  [Manipulação de Excessão](./17_Day_Exception_handling/17_exception_handling.md)|
-| 18  |  [Regex (Expressões Regulares)](./18_Day_Regular_expressions/18_regular_expressions.md)|
-| 19  |  [Manipulação De Arquivos](./19_Day_File_handling/19_file_handling.md)|
-| 20  |  [Gerenciador De Pacotes](./20_Day_Python_package_manager/20_python_package_manager.md)|
-| 21  |  [Classes e Objetos](./21_Day_Classes_and_objects/21_classes_and_objects.md)|
-| 22  |  [Web Scraping](./22_Day_Web_scraping/22_web_scraping.md)|
-| 23  |  [Ambiente Virtual](./23_Day_Virtual_environment/23_virtual_environment.md)|
-| 24  |  [Estatisticas](./24_Day_Statistics/24_statistics.md)|
-| 25  |  [Pandas](./25_Day_Pandas/25_pandas.md)|
-| 26  |  [Python web](./26_Day_Python_web/26_python_web.md)|
-| 27  |  [Python com MongoDB](./27_Day_Python_with_mongodb/27_python_with_mongodb.md)|
-| 28  |  [API](./28_Day_API/28_API.md)|
-| 29  |  [Construindo API's](./29_Day_Building_API/29_building_API.md)|
-| 30  |  [Conclusão](./30_Day_Conclusions/30_conclusions.md)|
+| 03  |  [Operadores](./03_Dia_Operadores/README.md)|
+| 04  |  [Strings](./04_Dia_Strings/README.md)|
+| 05  |  [Listas](./05_Dia_Listas/README.md)|
+| 06  |  [Tuplas](./06_Dia_Tuplas/README.md)|
+| 07  |  [Conjuntos](./07_Dia_Conjuntos/README.md)|
+| 08  |  [Dicionários](./08_Dia_Dicionarios/README.md)|
+| 09  |  [Condicionais](./09_Dia_Condicionais/README.md)|
+| 10  |  [Loops](./10_Dia_Loops/README.md)|
+| 11  |  [Funções](./11_Dia_Funcoes/README.md)|
+| 12  |  [Módulos](./12_Dia_Modulos/README.md)|
+| 13  |  [Compreensão de Listas](./13_Dia_Compreensao_de_Listas/README.md)|
+| 14  |  [Funções de Ordem Superior](./14_Dia_Funcoes_de_Ordem_Superior/README.md)|
+| 15  |  [Tipos de Erros](./15_Dia_Tipos_de_Erros/README.md)|
+| 16  |  [Datetime](./16_Dia_Datetime/README.md)|
+| 17  |  [Tratamento de Exceções](./17_Dia_Tratamento_de_Excecoes/README.md)|
+| 18  |  [Expressões Regulares](./18_Dia_Expressoes_Regulares/README.md)|
+| 19  |  [Manipulação de Arquivos](./19_Dia_Manipulacao_de_Arquivos/README.md)|
+| 20  |  [Gerenciador de Pacotes](./20_Dia_Gerenciador_de_Pacotes/README.md)|
+| 21  |  [Classes e Objetos](./21_Dia_Classes_e_Objetos/README.md)|
+| 22  |  [Web Scraping](./22_Dia_Web_Scraping/README.md)|
+| 23  |  [Ambiente Virtual](./23_Dia_Ambiente_Virtual/README.md)|
+| 24  |  [Estatísticas](./24_Dia_Estatisticas/README.md)|
+| 25  |  [Pandas](./25_Dia_Pandas/README.md)|
+| 26  |  [Python Web](./26_Dia_Python_Web/README.md)|
+| 27  |  [Python com MongoDB](./27_Dia_Python_com_MongoDB/README.md)|
+| 28  |  [API](./28_Dia_API/README.md)|
+| 29  |  [Construindo APIs](./29_Dia_Construindo_APIs/README.md)|
+| 30  |  [Conclusão](./30_Dia_Conclusao/README.md)|
 
 🧡🧡🧡 CODANDO FELIZ 🧡🧡🧡
 
@@ -453,4 +453,4 @@ Para executar o arquivo python verifique a imagem abaixo. Você pode executar o 
 
 🎉 PARABÉNS ! 🎉
 
-[Day 2 >>](./02_Dia_Variaveis_BuiltIn_Functions/README.md)
+[Dia 2 >>](./02_Dia_Variaveis_BuiltIn_Functions/README.md)

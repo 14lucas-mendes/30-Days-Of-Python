@@ -23,3 +23,12 @@ print(type('Asabeneh'))          # String
 print(type([1, 2, 3]))           # List
 print(type({'name': 'Asabeneh'}))  # Dictionary
 print(type({9.8, 3.14, 2.7}))    # Tuple
+
+
+#Distancia entre dos puntos
+x1 = 10
+y1 = 8
+x2 = 2
+y2 = 3
+print('A distancia entre dois pontos é:', ((x1 - x2) ** 2 + (y1 - y2) ** 2) ** 0.5)
+

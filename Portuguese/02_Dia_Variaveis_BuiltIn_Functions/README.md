@@ -14,7 +14,7 @@
 
 </div>
 
-[<< Dia 1](../README.md) | [Dia 3 >>](../03_Day_Operators/03_operators.md)
+[<< Dia 1](../README.md) | [Dia 3 >>](../03_Dia_Operadores/README.md)
 
 ![30DiasDePython](../.././images/30DaysOfPython_banner3@2x.png)
 
@@ -297,4 +297,4 @@ Numeros e tipos de dados em python:
 
 🎉 PARABÉNS ! 🎉
 
-[<< Day 1](../README.md) | [Day 3 >>](../03_Day_Operators/03_operators.md)
+[<< Dia 1](../README.md) | [Dia 3 >>](../03_Dia_Operadores/README.md)
